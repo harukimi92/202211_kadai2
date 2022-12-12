@@ -3,7 +3,7 @@ package kadai2;
 import java.util.ArrayList;
 import java.util.List;
 
-public class kadai2_main {
+public class Kadai2Main {
 
 	public static void main(String[] args) {
 
